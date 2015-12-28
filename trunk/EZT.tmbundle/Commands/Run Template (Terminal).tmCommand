@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>beforeRunningCommand</key>
+	<string>nop</string>
+	<key>command</key>
+	<string>export TM_PYTHON=$(which "${TM_PYTHON:-pythonw}")
+"$TM_PYTHON" "$TM_BUNDLE_SUPPORT/bin/runezt.py" "$TM_FILEPATH"</string>
+	<key>input</key>
+	<string>document</string>
+	<key>keyEquivalent</key>
+	<string>@r</string>
+	<key>name</key>
+	<string>Run Template</string>
+	<key>output</key>
+	<string>openAsNewDocument</string>
+	<key>scope</key>
+	<string>text.html.ezt</string>
+	<key>uuid</key>
+	<string>5D5C25C8-FB6D-4283-810E-9A3760F628E1</string>
+</dict>
+</plist>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>command</key>
+	<string>echo "[include \"$TM_DROPPED_FILE\"]"</string>
+	<key>draggedFileExtensions</key>
+	<array>
+		<string>ezt</string>
+		<string>html</string>
+	</array>
+	<key>name</key>
+	<string>Insert EZT Include</string>
+	<key>output</key>
+	<string>insertAsSnippet</string>
+	<key>scope</key>
+	<string>text.html.ezt</string>
+	<key>uuid</key>
+	<string>F83B9238-14EB-4ABD-9DF9-65E46407D770</string>
+</dict>
+</plist>

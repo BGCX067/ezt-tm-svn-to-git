@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>mainMenu</key>
+	<dict>
+		<key>items</key>
+		<array>
+			<string>5D5C25C8-FB6D-4283-810E-9A3760F628E1</string>
+			<string>FA5B19EE-DAB4-405C-AB3F-09B4706CA936</string>
+			<string>216BFCD6-AB6F-49A0-B636-13D2B7CEDB9E</string>
+			<string>------------------------------------</string>
+			<string>9B5435A6-84AF-4F97-969F-21CF5485FD2B</string>
+			<string>C317B597-9124-4806-8DEC-DD474E9B4F87</string>
+			<string>8E3A87F6-B5A1-4975-812C-582240CD22C9</string>
+			<string>E28DDCA3-CA08-4024-B882-B2B1550B7757</string>
+			<string>1D0D3365-5DE8-4CD7-8A90-92A3D8BDBB64</string>
+			<string>DB7BBABE-E5CA-40E3-8E44-65E8CFDB7DEB</string>
+			<string>218AD6A6-A60C-4508-A8C4-16181CC443C2</string>
+			<string>065B6AA2-EAB7-4730-A949-B6AD8D9A2DD6</string>
+			<string>8FA0DFEC-D21C-4F72-A570-A9B3A6F126A1</string>
+		</array>
+		<key>submenus</key>
+		<dict/>
+	</dict>
+	<key>name</key>
+	<string>EZT</string>
+	<key>ordering</key>
+	<array>
+		<string>A1C730E5-24DB-43DB-A26B-C61A15D61A54</string>
+		<string>3E721DEA-9399-4EC0-9A66-6B46DFF21C3C</string>
+		<string>5D5C25C8-FB6D-4283-810E-9A3760F628E1</string>
+		<string>FA5B19EE-DAB4-405C-AB3F-09B4706CA936</string>
+		<string>216BFCD6-AB6F-49A0-B636-13D2B7CEDB9E</string>
+		<string>9B5435A6-84AF-4F97-969F-21CF5485FD2B</string>
+		<string>C317B597-9124-4806-8DEC-DD474E9B4F87</string>
+		<string>8E3A87F6-B5A1-4975-812C-582240CD22C9</string>
+		<string>E28DDCA3-CA08-4024-B882-B2B1550B7757</string>
+		<string>1D0D3365-5DE8-4CD7-8A90-92A3D8BDBB64</string>
+		<string>DB7BBABE-E5CA-40E3-8E44-65E8CFDB7DEB</string>
+		<string>218AD6A6-A60C-4508-A8C4-16181CC443C2</string>
+		<string>065B6AA2-EAB7-4730-A949-B6AD8D9A2DD6</string>
+		<string>8FA0DFEC-D21C-4F72-A570-A9B3A6F126A1</string>
+		<string>F83B9238-14EB-4ABD-9DF9-65E46407D770</string>
+	</array>
+	<key>uuid</key>
+	<string>6FFCA5BD-74C4-4575-BB1F-5BFB6DF6DA04</string>
+</dict>
+</plist>

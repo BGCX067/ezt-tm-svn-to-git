@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>name</key>
+	<string>Completions</string>
+	<key>scope</key>
+	<string>text.html.ezt meta.tag.any.ezt</string>
+	<key>settings</key>
+	<dict>
+		<key>completions</key>
+		<array>
+			<string>if-any</string>
+			<string>if-index</string>
+			<string>if</string>
+			<string>else</string>
+			<string>for</string>
+			<string>is</string>
+			<string>end</string>
+			<string>format</string>
+			<string>include</string>
+			<string>insertfile</string>
+			<string>define</string>
+			<string>odd</string>
+			<string>even</string>
+			<string>first</string>
+			<string>last</string>
+			<string>raw</string>
+			<string>xml</string>
+			<string>html</string>
+		</array>
+	</dict>
+	<key>uuid</key>
+	<string>3E721DEA-9399-4EC0-9A66-6B46DFF21C3C</string>
+</dict>
+</plist>

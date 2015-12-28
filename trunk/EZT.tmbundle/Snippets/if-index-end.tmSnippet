@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>content</key>
+	<string>[if-index ${1:index_from_for} ${2:(odd|even|first|last|number)}]
+	${3:}
+[end]</string>
+	<key>name</key>
+	<string>if-index-end</string>
+	<key>scope</key>
+	<string>text.html.ezt</string>
+	<key>tabTrigger</key>
+	<string>ifindex</string>
+	<key>uuid</key>
+	<string>218AD6A6-A60C-4508-A8C4-16181CC443C2</string>
+</dict>
+</plist>
